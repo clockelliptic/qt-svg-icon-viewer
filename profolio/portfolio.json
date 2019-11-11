@@ -1,0 +1,16 @@
+{
+    "title":"QT SVG Icon Viewer",
+    "description":"App icon browser for app design workflow. Showcases clean, minimalist, universal icons.",
+    "tags":{
+       "languages":[
+          "python",
+       ],
+       "tooling":[
+          "pyqt", "pyside"
+       ],
+       "keywords":[
+          "desktop app"
+       ]
+    },
+    "n_images":1
+ }
