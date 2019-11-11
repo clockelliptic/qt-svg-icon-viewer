@@ -3,10 +3,11 @@
     "description":"App icon browser for app design workflow. Showcases clean, minimalist, universal icons.",
     "tags":{
        "languages":[
-          "python",
+          "python"
        ],
        "tooling":[
-          "pyqt", "pyside"
+          "pyqt",
+          "pyside"
        ],
        "keywords":[
           "desktop app"
